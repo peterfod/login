@@ -1,2 +1,2 @@
 # Weiss
-Weiss szoftverfejlesztő
+Login & Registration System, OOP
