@@ -1,0 +1,2 @@
+# Weiss
+Weiss szoftverfejlesztő
