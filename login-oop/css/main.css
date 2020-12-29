@@ -1,0 +1,53 @@
+.container {
+    padding: 0 0;
+}
+
+.row {
+    margin: 0 0;
+    padding: 5px 0px;
+}
+
+.btn {
+    margin-right: 12px;
+}
+
+.main {
+    margin: 0 0;
+    padding: 0 0;
+}
+
+.footer {
+    background-color:lightgrey;
+    margin: 30px auto 0px auto;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.login {
+    padding: 30px 0px;
+    width: 400px;
+    margin: auto;
+}
+
+.register {
+    padding: 30px 0px;
+    width: 400px;
+    margin: auto;
+}
+
+.user {
+    padding: 30px 0px;
+    width: 680px;
+    margin: auto;
+    line-height: 20px;
+}
+
+h4 {
+    color: blue;
+    padding-bottom: 10px;
+}
+
+pre {
+    color: #717278;
+    font-family: monospace;
+}
